@@ -1,3 +1,5 @@
+package JavaPrograms;
+
 /*Write a java program to print the numbers from 1-10 
  * and if number is 7 then stop printing the number*/
 public class Break {
